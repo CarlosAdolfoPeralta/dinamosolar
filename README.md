@@ -4,9 +4,9 @@ MODELO AXISIMETRICO DE DINAMO SOLAR
 
 PROPOSITO
 ---------
-Este programa integra un modelo axisimetrico de dínamo a gran escala en una
-capa esférica. Evoluciona el campo magnético poloidal y toroidal, incluye la
-producción de campo por rotación diferencial y un efecto alfa, y permite que
+Este programa integra un modelo axisimetrico de dínamo a gran escala en 
+coordenadas esféricas. Evoluciona el campo magnético poloidal y toroidal, incluye 
+la producción de campo por rotación diferencial y un efecto alfa, y permite que
 la fuerza magnética modifique el flujo meridional. La finalidad es estudiar la
 evolución temporal y la retroalimentación entre el campo y los movimientos del
 fluido estelar.
