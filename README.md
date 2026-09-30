@@ -59,7 +59,7 @@ puntostit: cantidad de intervalos angulares; deltit = pi/puntostit.
 puntosr: cantidad de intervalos radiales; puntosr = 63.
 mu0: permeabilidad magnética del vacío.
 sigma: magnitud y signo del flujo meridional impuesto; en toy_prueba.py vale
-  -7e-8..
+  -7e-8.
 
 ARCHIVOS AUXILIARES
 -------------------
